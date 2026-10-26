@@ -1,7 +1,4 @@
-naam = input("Aapka naam kya hai? ")
-print("Namaste", somya
-)
-print("Mera code GitHub par hai!")
-print("Main Python seekh raha hoon!")kriti
-kriti
-
+naam = input("Tumhara naam kya hai? ")
+print("Namaste", naam)
+print("Main Python seekh raha hoon!")
+print("Ye meri practice branch hai!")
